@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf.png" height="170" alt="fzf - a command-line fuzzy finder"> [![github-actions](https://github.com/Symgenius/fzf/workflows/Test%20fzf%20on%20Linux/badge.svg)](https://github.com/Symgenius/fzf/actions)
+<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf.png" height="170" alt="fzf - a command-line fuzzy finder"> 
 ===
 
 fzf is a general-purpose command-line fuzzy finder.
