@@ -714,11 +714,7 @@ https://github.com/Symgenius/fzf/wiki/Related-projects
 
 The MIT License (MIT)
 
-Copyright (c) 2013-2021 Junegunn Choi
 =======
 # fzf
-Symgenius FZF - controlled version
->>>>>>> c9d90ef2c487f70e86c080e27729f407b43f7ac0
-=======
 
->>>>>>> ac8c291bbf852dea085c503f0a96ef79ac79f40c
+Symgenius FZF - controlled version
