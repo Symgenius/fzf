@@ -269,7 +269,7 @@ I know it's a lot to digest, let's try to break down the code.
   man/man1/fzf.1:54:.BI "--algo=" TYPE
   man/man1/fzf.1:55:Fuzzy matching algorithm (default: v2)
   man/man1/fzf.1:58:.BR v2 "     Optimal scoring algorithm (quality)"
-  src/pattern_test.go:7:  "github.com/junegunn/fzf/src/algo"
+  src/pattern_test.go:7:  "github.com/Symgenius/fzf/src/algo"
   ```
   The first token delimited by `:` is the file path, and the second token is
   the line number of the matching line. They respectively correspond to `{1}`

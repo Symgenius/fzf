@@ -8,8 +8,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/junegunn/fzf/src/algo"
-	"github.com/junegunn/fzf/src/tui"
+	"github.com/Symgenius/fzf/src/algo"
+	"github.com/Symgenius/fzf/src/tui"
 
 	"github.com/mattn/go-runewidth"
 	"github.com/mattn/go-shellwords"
