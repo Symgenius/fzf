@@ -161,7 +161,7 @@ fzf can dynamically update the candidate list using an arbitrary program with
 `reload` bindings (The design document for `reload` can be found
 [here][reload]).
 
-[reload]: https://github.com/junegunn/fzf/issues/1750
+[reload]: https://github.com/Symgenius/fzf/issues/1750
 
 ### Updating the list of processes by pressing CTRL-R
 
@@ -567,7 +567,7 @@ export FZF_DEFAULT_OPTS='--color=bg+:#293739,bg:#1B1D1E,border:#808080,spinner:#
 
 The Vim plugin of fzf can generate `--color` option from the current color
 scheme according to `g:fzf_colors` variable. You can find the detailed
-explanation [here](https://github.com/junegunn/fzf/blob/master/README-VIM.md#explanation-of-gfzf_colors).
+explanation [here](https://github.com/Symgenius/fzf/blob/master/README-VIM.md#explanation-of-gfzf_colors).
 
 Here is an example. Add this to your Vim configuration file.
 

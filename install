@@ -146,7 +146,7 @@ download() {
   fi
 
   local url
-  url=https://github.com/junegunn/fzf/releases/download/$version/${1}
+  url=https://github.com/Symgenius/fzf/releases/download/$version/${1}
   set -o pipefail
   if ! (try_curl $url || try_wget $url); then
     set +o pipefail
@@ -374,4 +374,4 @@ if [ $update_config -eq 1 ]; then
   echo 'Use uninstall script to remove fzf.'
   echo
 fi
-echo 'For more information, see: https://github.com/junegunn/fzf'
+echo 'For more information, see: https://github.com/Symgenius/fzf'

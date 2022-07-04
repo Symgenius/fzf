@@ -40,7 +40,7 @@ function download {
     return
   }
   cd "$fzf_base\bin"
-  $url="https://github.com/junegunn/fzf/releases/download/$version/$file"
+  $url="https://github.com/Symgenius/fzf/releases/download/$version/$file"
   $temp=$env:TMP + "\fzf.zip"
   [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
   if ($PSVersionTable.PSVersion.Major -ge 3) {
@@ -62,4 +62,4 @@ function download {
 
 download "fzf-$version-windows_amd64.zip"
 
-Write-Host 'For more information, see: https://github.com/junegunn/fzf'
+Write-Host 'For more information, see: https://github.com/Symgenius/fzf'

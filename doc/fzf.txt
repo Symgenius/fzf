@@ -86,7 +86,7 @@ the basic file selector command built on top of them.
 The most important of all is `fzf#run`, but it would be easier to understand
 the whole if we start off with `:FZF` command.
 
-                                       {2} https://github.com/junegunn/fzf.vim
+                                       {2} https://github.com/Symgenius/fzf.vim
 
 
 :FZF[!]
